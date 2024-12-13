@@ -1,0 +1,13 @@
+D:\ЛР\MathApp\bin\Debug\MathApp.exe.config
+D:\ЛР\MathApp\bin\Debug\MathApp.exe
+D:\ЛР\MathApp\bin\Debug\MathApp.pdb
+D:\ЛР\MathApp\bin\Debug\log4net.dll
+D:\ЛР\MathApp\bin\Debug\MyMathLibrary.dll
+D:\ЛР\MathApp\bin\Debug\log4net.pdb
+D:\ЛР\MathApp\bin\Debug\log4net.xml
+D:\ЛР\MathApp\bin\Debug\MyMathLibrary.pdb
+D:\ЛР\MathApp\obj\Debug\MathApp.csproj.AssemblyReference.cache
+D:\ЛР\MathApp\obj\Debug\MathApp.csproj.CoreCompileInputs.cache
+D:\ЛР\MathApp\obj\Debug\MathApp.csproj.Up2Date
+D:\ЛР\MathApp\obj\Debug\MathApp.exe
+D:\ЛР\MathApp\obj\Debug\MathApp.pdb
