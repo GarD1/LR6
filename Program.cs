@@ -12,8 +12,8 @@ namespace MathApp
             log4net.Config.XmlConfigurator.Configure();
 
             var math = new MyMathLibrary.MathOperations();
-            Console.WriteLine("Сложение: " + math.Add(5, 3));
-            Console.WriteLine("Вычитание: " + math.Subtract(5, 3));
+            Console.WriteLine("Сложение: " + math.Add(8, 4));
+            Console.WriteLine("Вычитание: " + math.Subtract(7, 2));
         }
     }
 }
